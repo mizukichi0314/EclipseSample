@@ -1,14 +1,15 @@
 package test;
 
-public class second {
+public class test {
 
 	public static void main(String[] args) {
+		
 		// 課題１
 		int x = 7;
 		x = x * 3;
 		System.out.println(x);
 		
-		x = x / 3;
+		x = x / 2;
 		System.out.println(x);
 		
 		// 課題２
@@ -17,11 +18,10 @@ public class second {
 		int z = x * y;
 		System.out.println(z);
 		
-		// 課題３
+		//課題３
 		String s = "羽柴";
-		x = 29;
-		System.out.println(s + "は" + x + "歳です。");
-		
+		 x = 29;
+		 System.out.println(s + "は" + x + "歳です。");
 
 	}
 
