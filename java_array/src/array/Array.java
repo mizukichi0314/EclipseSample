@@ -1,4 +1,4 @@
-package java_array;
+package array;
 
 public class Array {
 
