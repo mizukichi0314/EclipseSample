@@ -39,6 +39,9 @@ public class Data {
 			
 		}
 		
+		System.out.println("int型:" + iNum);
+		System.out.println("float型:" + fNum);
+		
 	}
 
 }
