@@ -8,13 +8,11 @@ public class Car4 {
 		count++;
 		System.out.println("ナンバーなしを作りました");
 	}
-	
 	public Car4 (int n) {
-		no = 0;
+		no = n;
 		count++;
 		System.out.println("ナンバー" + no + "を作りました");
 	}
-	
 	public static void display() {
 		System.out.println(count + "台作成済みです");
 	}
